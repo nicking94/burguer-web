@@ -1,2 +1,2 @@
 # Deployment in the following link:
-https://thedrgula.netlify.app/
+https://drgula.netlify.app/
